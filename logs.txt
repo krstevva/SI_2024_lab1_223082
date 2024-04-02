@@ -1,0 +1,38 @@
+$ git log
+commit def1a754a162e2636114ef5fa33b7286fc56c20d (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: krstevva <simona.krsteva10@gmail.com>
+Date:   Tue Apr 2 17:21:56 2024 +0200
+
+    Call method makeBigStringFrom in main class
+    Conflict solved by discarding one of the file change and keeping the
+    other one.
+
+commit ebfe2ae023a37c8de0a8ddad687996db2936ce6a
+Author: krstevva <simona.krsteva10@gmail.com>
+Date:   Tue Apr 2 17:06:06 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 79183ea2ed6b84aa90b1bf9a1141085849b2cd79 (origin/bug1, bug1)
+Author: krstevva <simona.krsteva10@gmail.com>
+Date:   Tue Apr 2 17:11:46 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 988e7a903d8d6cbae5f77195b7bdc2f8bd630aca
+Author: krstevva <simona.krsteva10@gmail.com>
+Date:   Tue Apr 2 17:01:09 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 255f247f70b9d99616ec23b5e0552ee0a3ed1ad6
+Author: krstevva <simona.krsteva10@gmail.com>
+Date:   Tue Apr 2 16:40:24 2024 +0200
+
+    Add starter code.
+
+commit 042b8a190ae4ee0b798ce083895ad3c76c6ce967
+Author: krstevva <simona.krsteva10@gmail.com>
+Date:   Tue Apr 2 15:42:46 2024 +0200
+
+    Initial commit
